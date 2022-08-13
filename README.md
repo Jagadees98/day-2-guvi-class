@@ -4,4 +4,4 @@ A)  HTTP2 is much faster and more reliable than HTTP1. HTTP1 loads a single requ
 
 Q2) Write a blog about objects and its internal representation in Javascript.
 
-A)  In JavaScript, an object is a standalone entity, with properties and type. Compare it with a cup, for example. A cup is an object, with properties. A       cup has a color, a design, weight, a material it is made of, etc. The same way, JavaScript objects can have properties, which define their characteristics.
+A)  In JavaScript, an object is a standalone entity, with properties and type. Compare it with a cup, for example. A cup is an object, with properties. A cup has a color, a design, weight, a material it is made of, etc. The same way, JavaScript objects can have properties, which define their characteristics.
